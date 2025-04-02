@@ -13,17 +13,16 @@
 </div>
 
 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RoyaleSnaaier&show_icons=true&theme=radical" alt="RoyaleSnaaier's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyaleSnaaier&theme=radical" alt="RoyaleSnaaier's Contribution Streak" />
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RoyaleSnaaier&show_icons=true&theme=radical" alt="RoyaleSnaaier's GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyaleSnaaier&theme=radical" alt="RoyaleSnaaier's Contribution Streak" width="48%" />
 </p>
 <details>
   <summary>📈 More Stats</summary>
-  <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RoyaleSnaaier&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
+    <p align="center" style="display: flex; justify-content: center; gap: 10px;">
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RoyaleSnaaier&layout=compact&theme=radical" alt="Top Languages" width="25%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoyaleSnaaier&theme=radical" alt="Profile Details" width="48%" />
+    </p>
 </details>
 🛠️ Technologies & Tools
 <p>
