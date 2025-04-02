@@ -61,17 +61,12 @@
 
 🐍 Contribution Graph
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoyaleSnaaier/RoyaleSnaaier/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoyaleSnaaier/RoyaleSnaaier/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RoyaleSnaaier/RoyaleSnaaier/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github.com/RoyaleSnaaier/RoyaleSnaaier/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 🕰️ WakaTime Stats
-<!--START_SECTION:waka-->
-<!-- This section will be automatically populated with your WakaTime stats using a GitHub Action -->
-<!--END_SECTION:waka-->
+<!--WAKA_README:START-->
+<!--WAKA_README:END-->
 
 📱 Connect with me
 <p align="center">
