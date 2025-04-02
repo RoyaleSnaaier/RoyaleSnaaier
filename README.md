@@ -3,12 +3,20 @@
   <img src="https://img.shields.io/github/followers/RoyaleSnaaier?style=social" alt="GitHub followers"/>
   <img src="https://img.shields.io/twitter/follow/RoyaleSnaaier?style=social" alt="Twitter Follow"/>
 </p>
+
 💫 About Me
+
 <div align="left">
 
-🔭 I'm currently working on **[Villa Verkenner project](https://github.com/roc-ica/l7-pro-3-vakantie-villa-verkenner-2023-cannibal-coders)**
-🌱 I'm learning **[Typescript, React, Tailwind, Docker and PHP]**  
-💬 Ask me about **[Anyhing]**  
+🔭 I'm currently working on [Villa Verkenner](https://github.com/roc-ica/l7-pro-3-vakantie-villa-verkenner-2023-cannibal-coders) - A vacation villa discovery platform  
+  
+🌱 I'm learning **TypeScript**, **React**, **Tailwind CSS**, **Docker** and **PHP**  
+  
+💬 Ask me about web development, frontend frameworks, or anything tech-related!  
+  
+🎓 Software Development student passionate about creating intuitive user experiences  
+  
+⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes  
 
 </div>
 
