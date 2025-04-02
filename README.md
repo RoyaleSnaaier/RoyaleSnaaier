@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there! 👋  
+I'm Ingmar van Rheenen - a passionate developer who loves coding! 🚀  
+🌱 Currently learning: React, TypeScript  
+📫 How to reach me: your.email@example.com  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoyaleSnaaier)](https://github.com/anuraghazra/github-readme-stats)
 
