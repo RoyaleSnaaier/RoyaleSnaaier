@@ -59,15 +59,6 @@
     </a>
 </p>
 
-🐍 Contribution Graph
-<p align="center">
-  <img src="https://github.com/RoyaleSnaaier/RoyaleSnaaier/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-🕰️ WakaTime Stats
-<!--WAKA_README:START-->
-<!--WAKA_README:END-->
-
 📱 Connect with me
 <p align="center">
   <a href="https://twitter.com/RoyaleSnaaier">
