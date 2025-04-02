@@ -53,10 +53,10 @@
 
 📌 Pinned Repositories
 <p align="center">
-  <a href="https://github.com/RoyaleSnaaier/repo-1">
+  <a href="https://github.com/roc-ica/l7-pro-3-vakantie-villa-verkenner-2023-cannibal-coders">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RoyaleSnaaier&repo=repo-1&theme=radical" alt="Repository 1"/>
   </a>
-  <a href="https://github.com/RoyaleSnaaier/repo-2">
+  <a href="https://github.com/roc-ica/l7-pro-2-e-learning-2023-RoyaleSnaaier">
     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=RoyaleSnaaier&repo=repo-2&theme=radical" alt="Repository 2"/>
   </a>
 </p>
