@@ -6,12 +6,9 @@
 💫 About Me
 <div align="left">
 
-🔭 I'm currently working on **[fill in your current project]**  
-🌱 I'm learning **[technologies you're learning]**  
-👯 I'm looking to collaborate on **[types of projects]**  
-💬 Ask me about **[your expertise areas]**  
-📫 How to reach me: **[your preferred contact method]**  
-⚡ Fun fact: **[interesting fact about yourself]**  
+🔭 I'm currently working on **[Villa Verkenner project](https://github.com/roc-ica/l7-pro-3-vakantie-villa-verkenner-2023-cannibal-coders)**
+🌱 I'm learning **[Typescript, React, Tailwind, Docker and PHP]**  
+💬 Ask me about **[Anyhing]**  
 
 </div>
 
@@ -31,13 +28,19 @@
 🛠️ Technologies & Tools
 <p>
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python"/>
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" alt="React"/>
+  <img src="https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a" alt="SCSS"/>
+  <img src="https://img.shields.io/badge/Code-Tailwind-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a" alt="TypeScript"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git"/>
+  <img src="https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" alt="MySQL"/><img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="Docker"/>
+
+
+
 </p>
 🏆 GitHub Trophies
 <p align="center">
@@ -46,10 +49,6 @@
 <!--START_SECTION:activity-->
 <!-- This section will be automatically populated with your recent GitHub activities using a GitHub Action -->
 <!--END_SECTION:activity-->
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 📌 Pinned Repositories
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
@@ -69,28 +68,24 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RoyaleSnaaier/RoyaleSnaaier/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
 🕰️ WakaTime Stats
 <!--START_SECTION:waka-->
 <!-- This section will be automatically populated with your WakaTime stats using a GitHub Action -->
 <!--END_SECTION:waka-->
+
 📱 Connect with me
 <p align="center">
   <a href="https://twitter.com/RoyaleSnaaier">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/royalesnaaier/">
+  <a href="https://www.linkedin.com/in/ingmar-van-rheenen-0a9392290/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://dev.to/royalesnaaier">
     <img src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
   </a>
-  <a href="https://medium.com/@royalesnaaier">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
 </p>
-
-🎵 Currently Listening To
-  ![Spotify Now Playing](https://img.shields.io/spotify/track/1SDiiE3v2z89VxC3aVRKHQ)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RoyaleSnaaier&color=green" alt="Profile Views"/>
