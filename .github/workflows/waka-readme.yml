@@ -1,11 +1,9 @@
 name: WakaTime Stats
-
 on:
   schedule:
     # Runs every 2 hours
     - cron: '0 */2 * * *'
   workflow_dispatch:
-
 jobs:
   update-readme:
     name: Update WakaTime Stats
