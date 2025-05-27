@@ -1,4 +1,4 @@
-👋 Hello, I'm RoyaleSnaaier
+👋 Hello, I'm Ingmar van Rheenen
 <p>
   <img src="https://img.shields.io/github/followers/RoyaleSnaaier?style=social" alt="GitHub followers"/>
   <img src="https://img.shields.io/twitter/follow/RoyaleSnaaier?style=social" alt="Twitter Follow"/>
