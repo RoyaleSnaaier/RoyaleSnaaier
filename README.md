@@ -44,12 +44,6 @@ END_SECTION:activity
 
 📌 Pinned Repositories
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <a href="https://github.com/roc-ica/l7-pro-3-vakantie-villa-verkenner-2023-cannibal-coders">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roc-ica&repo=l7-pro-3-vakantie-villa-verkenner-2023-cannibal-coders&theme=radical" alt="Villa Verkenner Project"/>
-    </a>
-    <a href="https://github.com/roc-ica/l7-pro-2-e-learning-2023-RoyaleSnaaier">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=roc-ica&repo=l7-pro-2-e-learning-2023-RoyaleSnaaier&theme=radical" alt="E-Learning Project"/>
-    </a>
     <a href="https://github.com/jarrin/flexty-poi">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=jarrin&repo=flexty-poi&theme=radical" alt="Flexty POI"/>
     </a>
