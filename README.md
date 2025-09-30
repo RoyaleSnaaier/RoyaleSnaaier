@@ -1,7 +1,6 @@
 👋 Hello, I'm Ingmar van Rheenen
 <p>
   <img src="https://img.shields.io/github/followers/RoyaleSnaaier?style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/twitter/follow/RoyaleSnaaier?style=social" alt="Twitter Follow"/>
 </p>
 
 💫 About Me
@@ -38,17 +37,24 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RoyaleSnaaier&theme=onedark&row=1&column=6" alt="GitHub Trophies"/>
 </p>
-<!--START_SECTION:activity-->
-<!-- This section will be automatically populated with your recent GitHub activities using a GitHub Action -->
-<!--END_SECTION:activity-->
+
+START_SECTION:activity
+This section will be automatically populated with your recent GitHub activities using a GitHub Action
+END_SECTION:activity
 
 📌 Pinned Repositories
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <a href="https://github.com/roc-ica/l7-pro-3-vakantie-villa-verkenner-2023-cannibal-coders">
         <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=roc-ica&repo=l7-pro-3-vakantie-villa-verkenner-2023-cannibal-coders&theme=radical" alt="Villa Verkenner Project"/>
     </a>
     <a href="https://github.com/roc-ica/l7-pro-2-e-learning-2023-RoyaleSnaaier">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=roc-ica&repo=l7-pro-2-e-learning-2023-RoyaleSnaaier&theme=radical" alt="E-Learning Project"/>
+    </a>
+    <a href="https://github.com/jarrin/flexty-poi">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jarrin&repo=flexty-poi&theme=radical" alt="Flexty POI"/>
+    </a>
+    <a href="https://github.com/RoyaleSnaaier/Quiz_api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoyaleSnaaier&repo=Quiz_api&theme=radical" alt="Quiz API"/>
     </a>
 </p>
 
