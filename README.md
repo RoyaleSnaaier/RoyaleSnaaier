@@ -1,20 +1,22 @@
-👋 Hello, I'm Ingmar van Rheenen
-<p>
-  <img src="https://img.shields.io/github/followers/ingmarvanrheenen?style=social" alt="GitHub followers"/>
-</p>
+<div align="center">
+  <h1>👋 Hello, I'm Ingmar van Rheenen </h1>
+  <p>
+    <img src="https://img.shields.io/github/followers/ingmarvanrheenen?style=social" alt="GitHub followers"/>
+  </p>
 
 💫 About Me
 
-<div align="left">
-
-🔭 I'm currently working on [Stem Wijzer] - A political parliament election app in C#
+  <div>
   
-🌱 I'm learning **TypeScript**, **React**, **Tailwind CSS**, **Docker**, **PHP** and **C#**
+  🔭 I'm currently working on [Stem Wijzer] - A political parliament election app in C#
     
-🎓 Software Development student passionate about creating intuitive user experiences
+  🌱 I'm learning **TypeScript**, **React**, **Tailwind CSS**, **Docker**, **PHP** and **C#**
+      
+  🎓 Software Development student passionate about creating intuitive user experiences
+    
+  ⚡ Fun fact: I can solve a Rubik's cube in under 3 minutes
   
-⚡ Fun fact: I can solve a Rubik's cube in under 3 minutes
-
+  </div>
 </div>
 
 🏆 GitHub Trophies
