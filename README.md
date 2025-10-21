@@ -6,7 +6,6 @@
 
   <div>
     <h2> About Me </h2>
-
     <p> 🔭 I'm currently working on [Stem Wijzer] - A political parliament election app in C# </p>
     <p> 🌱 I'm learning **TypeScript**, **React**, **Tailwind CSS**, **Docker**, **PHP** and **C#** </p>
     <p> 🎓 Software Development student passionate about creating intuitive user experiences </p>
